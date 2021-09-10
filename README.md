@@ -4,23 +4,12 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![Images/landingResize.png](Images/landingResize.png)
+![image](https://user-images.githubusercontent.com/79428102/132827415-9abe497f-ccdf-4c84-a7c6-aed105fe416b.png)
 
-### Before You Begin
-
-1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, add your **html** files, as well as your **assets**, **Resources** and **visualizations** folders. Your `index.html` should be the landing page that the user first sees.
-
-4. Push the above changes to GitHub or GitLab.
-
-5. Deploy to GitHub Pages. 
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
+For this challenge we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
 
 In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
@@ -84,33 +73,33 @@ This section contains screenshots of each page that must be built, at varying sc
 
 Large screen:
 
-![Landing page large screen](Images/landingResize.png)
+![image](https://user-images.githubusercontent.com/79428102/132827611-591ed417-8bb9-4204-9db4-96058839c71b.png)
 
 Small screen:
 
-![Landing page small screen](Images/landing-sm.png)
-￼
+![image](https://user-images.githubusercontent.com/79428102/132827684-8d2d5665-24a9-422d-b6ba-2714b039e305.png)
+
 
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
 
-![comparison page large screen](Images/comparison-lg.png)
+![image](https://user-images.githubusercontent.com/79428102/132827792-133b033a-812c-47ce-9748-3175f13bdcb1.png)
 
 Small screen:
 
-![comparison page small screen](Images/comparison-sm.png)
+![image](https://user-images.githubusercontent.com/79428102/132827886-9830cffd-1aec-4827-b3a6-b7c0ab873ae3.png)
 
 #### <a id="data-page"></a>Data page
 
 Large screen:
 
-![data page large screen](Images/data-lg.png)
+![image](https://user-images.githubusercontent.com/79428102/132827972-bb1a47b7-c8a6-40ba-8416-6eff45c7da76.png)
 
 
 Small screen:
 
-![data page small screen](Images/data-sm.png)
+![image](https://user-images.githubusercontent.com/79428102/132828042-80893884-950d-4a0a-8855-f386ac8446ee.png)
 
 #### <a id="visualization-pages"></a>Visualization pages
 
@@ -118,19 +107,19 @@ You'll build four of these, one for each visualization. Here's an example of one
 
 Large screen:
 
-![visualize page large screen](Images/visualize-lg.png)
+![image](https://user-images.githubusercontent.com/79428102/132828125-5896797b-ae94-4744-b925-6473b766242b.png)
 
 Small screen:
 
-![visualize page small screen](Images/visualize-sm.png)
+![image](https://user-images.githubusercontent.com/79428102/132828158-859dc5a2-5db1-4341-8bb0-1225c1d10996.png)
 
 #### <a id="navigation-menu"></a>Navigation menu
 
 Large screen:
-![nav menu large screen](Images/nav-lg.png)
+![image](https://user-images.githubusercontent.com/79428102/132828219-e3f447f6-ad34-469d-b529-5003d77698ec.png)
 
 Small screen:
-![nav menu small screen](Images/nav-sm.png)
+![image](https://user-images.githubusercontent.com/79428102/132828258-aa947535-fe64-4c30-8a53-3fa123102014.png)
 
 ### Copyright
 
